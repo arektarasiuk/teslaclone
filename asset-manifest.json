@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/teslaclone/static/css/main.3cd545ee.chunk.css",
-    "main.js": "/teslaclone/static/js/main.9dd9b0d3.chunk.js",
-    "main.js.map": "/teslaclone/static/js/main.9dd9b0d3.chunk.js.map",
+    "main.js": "/teslaclone/static/js/main.94963a6b.chunk.js",
+    "main.js.map": "/teslaclone/static/js/main.94963a6b.chunk.js.map",
     "runtime-main.js": "/teslaclone/static/js/runtime-main.60c3f068.js",
     "runtime-main.js.map": "/teslaclone/static/js/runtime-main.60c3f068.js.map",
     "static/js/2.abbfcee4.chunk.js": "/teslaclone/static/js/2.abbfcee4.chunk.js",
     "static/js/2.abbfcee4.chunk.js.map": "/teslaclone/static/js/2.abbfcee4.chunk.js.map",
     "index.html": "/teslaclone/index.html",
     "static/css/main.3cd545ee.chunk.css.map": "/teslaclone/static/css/main.3cd545ee.chunk.css.map",
-    "static/js/2.abbfcee4.chunk.js.LICENSE.txt": "/teslaclone/static/js/2.abbfcee4.chunk.js.LICENSE.txt"
+    "static/js/2.abbfcee4.chunk.js.LICENSE.txt": "/teslaclone/static/js/2.abbfcee4.chunk.js.LICENSE.txt",
+    "static/media/logo.a7b59bc6.svg": "/teslaclone/static/media/logo.a7b59bc6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.60c3f068.js",
     "static/js/2.abbfcee4.chunk.js",
     "static/css/main.3cd545ee.chunk.css",
-    "static/js/main.9dd9b0d3.chunk.js"
+    "static/js/main.94963a6b.chunk.js"
   ]
 }
