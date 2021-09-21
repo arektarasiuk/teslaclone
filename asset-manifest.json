@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teslaclone/static/css/main.3cd545ee.chunk.css",
-    "main.js": "/teslaclone/static/js/main.275d45cf.chunk.js",
-    "main.js.map": "/teslaclone/static/js/main.275d45cf.chunk.js.map",
+    "main.js": "/teslaclone/static/js/main.9052e6ba.chunk.js",
+    "main.js.map": "/teslaclone/static/js/main.9052e6ba.chunk.js.map",
     "runtime-main.js": "/teslaclone/static/js/runtime-main.60c3f068.js",
     "runtime-main.js.map": "/teslaclone/static/js/runtime-main.60c3f068.js.map",
     "static/js/2.abbfcee4.chunk.js": "/teslaclone/static/js/2.abbfcee4.chunk.js",
@@ -10,12 +10,20 @@
     "index.html": "/teslaclone/index.html",
     "static/css/main.3cd545ee.chunk.css.map": "/teslaclone/static/css/main.3cd545ee.chunk.css.map",
     "static/js/2.abbfcee4.chunk.js.LICENSE.txt": "/teslaclone/static/js/2.abbfcee4.chunk.js.LICENSE.txt",
-    "static/media/logo.a7b59bc6.svg": "/teslaclone/static/media/logo.a7b59bc6.svg"
+    "static/media/accessories.027ada94.jpg": "/teslaclone/static/media/accessories.027ada94.jpg",
+    "static/media/down-arrow.9b52668f.svg": "/teslaclone/static/media/down-arrow.9b52668f.svg",
+    "static/media/logo.a7b59bc6.svg": "/teslaclone/static/media/logo.a7b59bc6.svg",
+    "static/media/model-3.30651f79.jpg": "/teslaclone/static/media/model-3.30651f79.jpg",
+    "static/media/model-s.b65171b9.jpg": "/teslaclone/static/media/model-s.b65171b9.jpg",
+    "static/media/model-x.25937b94.jpg": "/teslaclone/static/media/model-x.25937b94.jpg",
+    "static/media/model-y.30acb76a.jpg": "/teslaclone/static/media/model-y.30acb76a.jpg",
+    "static/media/solar-panel.d7d441d7.jpg": "/teslaclone/static/media/solar-panel.d7d441d7.jpg",
+    "static/media/solar-roof.acfd9045.jpg": "/teslaclone/static/media/solar-roof.acfd9045.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.60c3f068.js",
     "static/js/2.abbfcee4.chunk.js",
     "static/css/main.3cd545ee.chunk.css",
-    "static/js/main.275d45cf.chunk.js"
+    "static/js/main.9052e6ba.chunk.js"
   ]
 }
